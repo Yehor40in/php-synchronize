@@ -1,4 +1,4 @@
-# php-synchronize
+# php-synchronizer
 This script files provide records synchronisation between two independent websites with similar database structure
 
 ![Demo service 1](demo/service_1.png)
